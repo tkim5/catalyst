@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://catalystagape.org/sitemap.xml
