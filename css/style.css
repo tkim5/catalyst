@@ -126,7 +126,7 @@ p { margin: 0 0 1em; color: var(--color-ink-soft); }
   color: var(--color-charcoal);
 }
 .brand-logo {
-  height: 44px;
+  height: 48px;
   width: auto;
   display: block;
   flex-shrink: 0;
